@@ -1,0 +1,6 @@
+*.py[cod]
+.ropeproject
+*.swp
+
+
+simpleapp/config.py
